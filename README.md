@@ -9,7 +9,7 @@ pip install circular-queue
 ##### How to use
 After cloning the repo, you can import the **CircularQueue** class to your project:
 ```python3
-from CircularQueue.circular_queue import CircularQueue
+from circular_queue import CircularQueue
 ```
 You can instantiate the **CircularQueue** object passing a **queue** an a **pointer** as arguments:
 ```python3
