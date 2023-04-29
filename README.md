@@ -4,7 +4,7 @@ Circular Queue is an object that can be used whenever you need to connect the he
 It can be easily connected to a database in order to persist your queue rotation.  
 ##### Installation
 ```
-git clone https://github.com/Gui-Luz/CircularQueue.git
+pip install circular-queue
 ```
 ##### How to use
 After cloning the repo, you can import the **CircularQueue** class to your project:
